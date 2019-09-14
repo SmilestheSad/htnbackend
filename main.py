@@ -72,4 +72,4 @@ def f(foodname, blacklist):
     return str(conf)
 
 if(__name__ == "__main__"):
-    app.run(host='0.0.0.0', port = 42068, debug = True)
+    app.run(host='0.0.0.0', port = 42069, debug = True)
